@@ -1,0 +1,32 @@
+#paginaprincipal{
+    background: rgb(140, 140, 173);
+    height: 100;
+    width: 100%;
+    padding-left:10%;
+    padding-right: 10%;
+    
+}
+
+#color{
+    color: black;
+}
+
+#margin{
+    margin: 0;
+    padding: 0;
+}
+
+#photo{
+    height: 100%;
+    width: 100%;
+    border: 0;
+    
+}
+
+
+#titulo{
+    color: rgb(7, 79, 105);
+    
+}
+
+
