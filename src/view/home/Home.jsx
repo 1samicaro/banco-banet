@@ -144,7 +144,7 @@ export default function Home() {
 
     <div className="col-sm-12 col-md-4 col-lg-4 col-sm-4 col-xl-4 col-xxl-4" id="margin">
       <div className="card" id="photo">
-      <Link to="/JoinUs">
+      <Link to="/SignUp">
       <img id="photo"
                     src={banner2}
                     width="290"
@@ -161,7 +161,7 @@ export default function Home() {
 
     <div className="col-sm-12 col-md-4 col-lg-4 col-sm-4 col-xl-4 col-xxl-4" id="margin">
       <div className="card" id="photo">
-      <Link to="/">
+      <Link to="/SignIn">
       <img
             className="img-fluid"
             src={banner3}
