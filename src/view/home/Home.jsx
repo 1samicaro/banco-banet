@@ -102,25 +102,26 @@ export default function Home() {
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid" >
           <Link to="/AboutUs" className="navbar-brand">
-          <h4> <b>   Vamos a leer </b></h4>
+          <h4> <b>   Servicios </b></h4>
           </Link>
           <Link to="/SignUp" className="navbar-brand">
-          <h4><b> TiendaLeo </b></h4>
+          <h4><b> Abrir cuenta <br />
+          de ahorros </b></h4>
           </Link>
           <Link to="/SignIn" className="navbar-brand">
-          <h4> <b>   Aliados </b></h4>
+          <h4> <b>   Solicitar <br />crédito </b></h4>
           </Link>
           <Link to="http://mingga.org/" className="navbar-brand">
-          <h4><b> Educación </b></h4>
+          <h4><b> Aliados </b></h4>
           </Link>
           <Link to="/AboutUs" className="navbar-brand">
-          <h4> <b>   Bibliotecas </b></h4>
+          <h4> <b>   Convenios </b></h4>
           </Link>
           <Link to="/AboutUs" className="navbar-brand">
-          <h4> <b>   Demo </b></h4>
+          <h4> <b>   Noticias </b></h4>
           </Link>
           <Link to="/AboutUs" className="navbar-brand">
-          <h4> <b>   Videos </b></h4>
+          <h4> <b>   Legal </b></h4>
           </Link>
         </div>
       </nav>
@@ -184,10 +185,10 @@ export default function Home() {
 <br />
 <br />
           
-          <h2 id="titulo"> <b>Somos una comunidad mundial en acción <br />
+          <h2 id="titulo"> <b>Somos el Banco de la Economía Popular <br />
           <br />
-          <h3>Promovemos la lectura, la escritura y el multilingüismo, para construir <br />
-          entre todos un mundo más educado y culto, progresista y pacífico</h3> <br />
+          <h3>Servimos a la economía de base para contribuir a la generación de riqueza,  <br />
+          trabajo e ingreso para las clases populares de Colombia</h3> <br />
           </b> 
           </h2>
           
