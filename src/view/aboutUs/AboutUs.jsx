@@ -1,6 +1,6 @@
 import React from "react";
 import "./AboutUs.css"
-import logo from "../../assets/logoleo.png";
+import logo from "../../assets/logoba.png";
 import { Link } from "react-router-dom";
 
 import aboutus from "../../assets/contenido/aboutus.jpg";
@@ -25,8 +25,9 @@ export default function AboutUs() {
 
             <div className="container-fluid" align="left">
 
-            <h3 id="titulo" align="center"> <b>Leer y escribir bien, las competencias fundamentales para ser exitosos <br />
-            en la moderna sociedad mundial  de la información y el conocimiento
+            <h3 id="titulo" align="center"> <b>BANCO DE LA ECONOMIA POPULAR  DE COLOMBIA <br />
+            Las Mipymes constituyen 99,5% de las empresas, aportan el 35% al Producto Interno Bruto <br />
+            y dan empleo al 65% de la fuerza laboral colombiana
           </b> 
           </h3>
 
@@ -47,16 +48,9 @@ export default function AboutUs() {
           </h3>
           <br />
           <p>
-          Hay una ley universal del desarrollo: todo progreso y bienestar de la sociedad, depende de la calidad de la educación que recibe la población. Por ello, los países más desarrollados, tienen como prioridad contar con sistemas educativos con cobertura universal, calidad y pertinencia, que mantengan y fortalezcan la competitividad de sus trabajadores.
-          </p>
+          El Banco de la Economía Popular de Colombia –BANEP-, es una institución financiera creada como sociedad anónima mercantil, que opera bajo la modalidad de neobanco (100% virtual) y presta servicios en todo el territorio colombiano.          </p>
           <p>
-          LEO - Club Mundial de Lectura, es una asociación sin ánimo de lucro cuya misión es promover la lectura, la escritura y el multilingüismo, como hábitos que contribuyen al mejoramiento educativo y cultural de las personas, familias y comunidades, mejoran la calidad del sistema educativo y coadyuvan a la construcción de sociedades más democráticas, pacíficas y progresistas.
-          </p>
-          <p>
-          Para cumplir esta misión, queremos impulsar una gran comunidad de instituciones educativas y personas comprometidas con construir un mundo mejor, a partir de mejorar el pilar clave del desarrollo: la educación, que depende fundamentalmente de la lectura, por excelencia el camino para adquirir los conocimientos y capacidades en las diferentes áreas.
-          </p>
-          <p>
-          Con este fin, LEO opera como una gran red mundial soportada en internet, que permite integrar todos los países y ciudades del mundo, y ofrecer servicios que llegan en tiempo real a todos los usuarios, con una gran eficiencia y economía que nos beneficia a todos.
+          BANEP fue creado bajo el amparo de la política del gobierno nacional Pacto por la Economía Popular, que plantea entre sus medidas “Crearemos líneas especiales de microcrédito y crédito condonable para las organizaciones de la economía popular, con líneas especiales de financiación y mediante exigencia de requisitos y garantías flexibles y/o con el respaldo del Estado”, y “Articularemos las tiendas populares de manera asociativa al sistema de microcrédito público. El sistema financiero público al lado de una banca cooperativa reemplazará el gota a gota y proveerá alternativas a la banca privada para los actores de la economía popular. Así, salvaguardaremos la pervivencia a las y los tenderos, hoy amenazados por las grandes superficies.”          
           </p>
           <br />
 
@@ -65,7 +59,8 @@ export default function AboutUs() {
           </h3> 
           <br />
           <p>
-          Trabajamos en el país y el mundo para promover y masificar la lectura y escritura, como hábitos para aumentar el nivel educativo y cultural de las personas, familias y comunidades y mejorar sus competencias comunicativas en el contexto de la moderna sociedad de la información y el conocimiento, conectada a nivel global por internet. 
+          Somos el soporte financiero de la economía popular para promover su modernización, crecimiento y rentabilidad,
+          en beneficio de la microempresa y el 65% de los trabajadores colombianos.
           </p>
                 
           <br />
@@ -75,94 +70,44 @@ export default function AboutUs() {
           </h3> 
           <br />      
           <p>
-          •	Aumentar el número de personas que leen y escriben como actividad cotidiana en los diferentes escenario académicos, laborales y sociales. <br />
+          •	Bancarizar a los sectores y agentes de la economía de base colombiana, urbanos y rurales.
 
-          •	Incrementar los índices de lectura, para lograr que las personas lean al menos un libro al mes, doce libros al año. <br />
+          <br />
+
+          •	Ofrecer programas y servicios que atiendas las necesidades de financiamiento de la economía popular colombiana.
+          <br />
  
-          •	Ofrecer escenarios para que las personas escriban y publiquen sus obras en los diferentes géneros, dándolas a conocer en el país y el mundo, con énfasis en la comunidad académica. <br />
+          •	Apalancar a los productores y comerciantes de la economía popular para lograr condiciones favorables que modernicen su actividad, aumenten su competitividad y generen riqueza y empleo para los colombianos. <br />
 
-          •	Promover el multilingüismo y las competencias comunicativas de las personas, para mejorar sus posibilidades de participación y éxito en la moderna sociedad tecnológica, a través de internet. <br />
-
-          •	Fortalecer a las familias y las instituciones educativas como escenarios básicos para inculcar y fortalecer las competencias lecto-escritoras de los estudiantes.
 
           </p>
 
           <br />
 
-          <h3 id="titulo" align="center"> <b>Asociados <br />
+          <h3 id="titulo" align="center"> <b>Servicios <br />
           </b> 
           </h3> 
           <br />  
           <p>
-            
-          El Club Mundial de Lectura es una comunidad digital con cobertura mundial. Pueden ser socios de LEO en los diferentes países y ciudades: <br />
-          •	Las personas (mayores de 14 años). <br />
-          •	Las instituciones educativas y organizaciones sociales sin ánimo de lucro.
+          Siguiendo la tendencia mundial, y con el propósito de reducir los costos operativos y el valor de los servicios, BANEP se proyecta como un neobanco, con organización y operación 100% virtual. Tenemos como propósito lograr una cobertura en los 1.123 municipios del país, en donde operan microempresarios, tenderos, comercios minoristas y ventas informales.
+          </p>
+          <p>
+          Inicialmente, BANEP prestará los servicios de cuenta de ahorros y crédito de inversión y capital de trabajo, que constituyen las principales necesidades de la economía popular.
 
           </p>
           <p>
-          
-          La membresía (ingreso y permanencia como socios por un año) tiene un costo de solo $50.000, que otorga el acceso libre y gratuito a los programas educativos y culturales del Club (biblioteca digital, publicar obras, vender obras, etc).
-
+          Un servicio estratégico de BANEP para los sectores de economía de base será el respaldo financiero para sus operaciones de compra, producción y venta de bienes y servicios.
           </p>
           <p>
-          Adicionalmente, los socios LEO pueden contribuir a su crecimiento en todo el mundo, invitando a ingresar al Club a nuevos socios, lo que les permitirá obtener ingresos importantes y permanentes que mejoren su calidad de vida personal y familiar.
+          Los grandes proveedores venden al por mayor, concediendo plazo entre 1 y 3 meses para el pago (tiempo utilizado por las grandes cadenas).  Los tenderos y demás agentes tienen compras mínimas que no son atendidas por los grandes proveedores, por lo cual tienen que recurrir a la cadena intermediarios, con mayores precios y menores plazos de pago. Además, muchos no están legalizados (registro en cámara de comercio, RUT, seguridad social), no poseen el capital y las garantías que respalden pagos a plazos, por lo cual tienen cerrado el acceso a los grandes productores/proveedores.
+          </p>
+          <p>
+          BANEP aprovecha los esquemas asociativos ya existentes o promueve la asociatividad, de manera que se sumen pedidos minoristas en grandes volúmenes, y ofrece el respaldo financiero que requieren los grandes proveedores.
           </p>
 
           <br />
 
-          <h3 id="titulo" align="center"> <b>Programas y Servicios a los Asociados<br />
-          </b> 
-          </h3> 
-          <br />  
-          <p>
-
-          </p>
-          <p>
-
-          </p>
-          <p>
-            
-         LEO ha desarrollado herramientas pedagógicas con tecnologías web, que permiten en forma eficiente y económica promover y masificar la lectura, la escritura y el multilingüismo como competencias clave para facilitar la participación y protagonismo de nuestros socios en la moderna sociedad de la información y el conocimiento soportado en internet, que demandan competencias comunicativas crecientes para lograr que las personas aprovechen las oportunidades de contactos, educación y negocios a nivel mundial <br />
-
-        LEO ofrece a sus asociados los siguientes servicios totalmente gratuitos:
-
-          </p>
-          <h5 id="titulo" align="center"> <b>1. Promoción de la Lectura y el Multilingüismo<br />
-          </b> 
-          </h5>
-          En el portal web institucional www.vamosaleer.co se proporcionan noticias educativas y culturales de actualidad y artículos sobre los géneros, autores y obras más importantes, para informar, motivar y orientar la lectura. También está disponible la Biblioteca Digital Familiar con 15.000 obras en 5 idiomas (español, inglés, francés, portugués e italiano), para leer on line o descargar al dispositivo del usuario,y tenerlas disponibles en todo momento y lugar sin conexión a internet. Mensualmente, se adicionan 50 nuevas obras a la colección, 600 nuevos libros al año. <br />
-
-          Para promover la lectura, LEO ha desarrollado dos herramientas adicionales: <br />
-
-          •	Bibliomobil: una APP que los usuarios pueden descargar a su celular, PC o tableta, y acceder a la colección de 15.000 obras que están almacenadas en la nube. Las obras se pueden leer on line o descargar al dispositivo del socio. La descarga de la APP es gratuita para los socios logeados. <br />
-
-          •	Biblio-Tablet: aplicación a través de la cual la biblioteca digital y sus 15.000 obras se graban en la memoria del celular o tableta del usuario, para su consulta sin conexión a internet. Herramienta diseñada para servir a las zonas rurales y municipios apartados con limitaciones de conectividad web. La descarga de la aplicación es gratuita para los socios logeados.
-
-          <p>
-          <h5 id="titulo" align="center"> <b>2. Promoción de la escritura<br />
-          </b> 
-          </h5>
-          Escribir es uno de los retos más importantes para las personas. Es un acto creativo y propositivo, que permite dar a conocer las ideas y creaciones, y contribuir a la expansión del conocimiento y el patrimonio literario universal. Para ello, el portal web institucional www.vamosaleer.co permite a los socios crear su perfil de escritor y publicar sus obras para ser visibles por los demás socios y por personas de todo el mundo. Pueden ser obras gratuitas o comerciales. Este es un servicio gratuito para los socios logeados.
-
-          </p>
-          <p>
-          <h5 id="titulo" align="center">  <b>3. Promoción comercial de los autores LEO<br />
-          </b> 
-          </h5>
-          A través de la tienda www.libreria.clubleo.co, la asociación permite que gratuitamente los socios puedan exponer y comercializar las obras de su autoría entre la comunidad LEO del país y el mundo. Cada socio es el responsable de toda la gestión comercial, conforme a las normas legales sobre la materia.
-
-          </p>
-          <br />
-          <br />
-          <h3 id="titulo" align="center"> <b>LEO <br />
-          Una gran comunidad mundial comprometida con la construcción <br />
-          de una sociedad más educada y culta
-
-          </b> 
-          </h3>
-
-
+         
 
               
               
