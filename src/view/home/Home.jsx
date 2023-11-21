@@ -168,10 +168,10 @@ export default function Home() {
 
 <br />
           
-          <h2 id="titulo"> <b> Somos el Banco de la Economía Popular <br />
+          <h2 id="titulo"> <i> <b> Somos el Banco de la Economía Popular <br />
           <h3>Servimos a la economía de base para contribuir a la generación de riqueza,  <br />
           trabajo e ingreso para las clases populares de Colombia</h3> 
-          </b> 
+          </b></i>
           </h2>
           
 
