@@ -19,6 +19,7 @@ export default function Home() {
         <br />
         <br />
         <br />
+        <br />
         
 
         <div className="row">
@@ -88,40 +89,31 @@ export default function Home() {
           </div>
 
           </div>
-          
-              
-              
+           
     </div >
     <br />
     <br />
-    <br />
-    <br />
-
-
+  
     <div>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid" >
           <Link to="/AboutUs" className="navbar-brand">
-          <h4> <b>   Servicios </b></h4>
+          <h5> <b>   Abrir Cuenta de Ahorros </b></h5>
           </Link>
           <Link to="/SignUp" className="navbar-brand">
-          <h4><b> Abrir cuenta <br />
-          de ahorros </b></h4>
+          <h5><b> Solicitar Crédito</b></h5>
           </Link>
           <Link to="/SignIn" className="navbar-brand">
-          <h4> <b>   Solicitar <br />crédito </b></h4>
+          <h5> <b>   Aliados </b></h5>
           </Link>
-          <Link to="http://mingga.org/" className="navbar-brand">
-          <h4><b> Aliados </b></h4>
+          <Link to="/" className="navbar-brand">
+          <h5><b> Convenios </b></h5>
           </Link>
-          <Link to="/AboutUs" className="navbar-brand">
-          <h4> <b>   Convenios </b></h4>
-          </Link>
-          <Link to="/AboutUs" className="navbar-brand">
-          <h4> <b>   Noticias </b></h4>
+          <Link to="https://banep.info/" className="navbar-brand">
+          <h5> <b>   Noticias </b></h5>
           </Link>
           <Link to="/AboutUs" className="navbar-brand">
-          <h4> <b>   Legal </b></h4>
+          <h5> <b>   Legal </b></h5>
           </Link>
         </div>
       </nav>
@@ -175,26 +167,22 @@ export default function Home() {
 
 </div>
 
-        
-
-
-
-
-
-<br />
-<br />
 <br />
           
-          <h2 id="titulo"> <b>Somos el Banco de la Economía Popular <br />
-          <br />
+          <h2 id="titulo"> <b> Somos el Banco de la Economía Popular <br />
           <h3>Servimos a la economía de base para contribuir a la generación de riqueza,  <br />
-          trabajo e ingreso para las clases populares de Colombia</h3> <br />
+          trabajo e ingreso para las clases populares de Colombia</h3> 
           </b> 
           </h2>
           
 
       </div>
+      
+      <br />
+      <br />
+      <br />
       <br />
     </div>
+    
     );
 }
