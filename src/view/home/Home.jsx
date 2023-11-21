@@ -18,8 +18,7 @@ export default function Home() {
       <div className="container-fluid">
         <br />
         <br />
-        <br />
-        <br />
+        
         
 
         <div className="row">
@@ -178,8 +177,7 @@ export default function Home() {
 
       </div>
       
-      <br />
-      <br />
+  
       <br />
       <br />
     </div>
