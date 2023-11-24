@@ -36,7 +36,7 @@ export default function Home() {
           </div>
           <div className="col-lg-6 col-md-6">
           <div className="social-links mt-3" align="right">
-              <Link to="https://twitter.com/mingga_rmb">
+              <Link to="/">
               <svg  id="color"
               xmlns="http://www.w3.org/2000/svg" 
               width="40" height="40" fill="currentColor" class="bi bi-envelope-fill" 
@@ -46,7 +46,7 @@ export default function Home() {
               </Link>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-              <Link to="https://www.facebook.com/profile.php?id=100093289494718">
+              <Link to="/">
               <svg id="color"
               xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" 
               class="bi bi-lock" viewBox="0 0 16 16">
@@ -56,7 +56,7 @@ export default function Home() {
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               
 
-              <Link to="https://www.instagram.com/mingga_rmb/">
+              <Link to="/">
               <svg id="color"
               xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" 
               class="bi bi-file-earmark-fill" viewBox="0 0 16 16">
@@ -66,7 +66,7 @@ export default function Home() {
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-              <Link to="https://www.linkedin.com/in/mingga-rmb/">
+              <Link to="/">
               <svg id="color"
               xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" 
               class="bi bi-search" viewBox="0 0 16 16">
@@ -74,7 +74,7 @@ export default function Home() {
               </svg>
               </Link>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              <Link to="https://www.tiktok.com/@mingga_rmb">
+              <Link to="/">
               <svg id="color"
               xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" 
               class="bi bi-list" viewBox="0 0 16 16">
