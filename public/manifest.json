@@ -1,24 +1,24 @@
 {
   "background_color": "#ffffff",
   "categories": ["business", "finance", "shopping"],
-  "description": "Pwa Mingga",
+  "description": "Pwa BANEP",
   "dir":"ltr",
   "display_override": ["standalone", "fulllscreen"],
   "display":"standalone",
   "icons":[
     {
-      "src":"mingga.png",
+      "src":"banet.png",
       "sizes":"212x212",
       "type":"image/png",
       "purpose":"any"
     }
   ],
   "lang":"es-MX",
-  "name":"Mingga",
+  "name":"BANEP",
   "orientation": "portrait",
   "prefer_related_application": false,
   "scope":"/",
-  "short_name":"Mingga",
+  "short_name":"BANEP",
   "start_url":"/",
   "theme_color":"orange"
 }
