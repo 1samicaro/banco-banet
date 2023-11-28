@@ -97,7 +97,7 @@ export default function Home() {
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid" >
           <Link to="/AboutUs" className="navbar-brand">
-          <h5> <b>   Abrir Cuenta <br /> de Ahorros </b></h5>
+          <h5> <b>   Abrir Cuenta de Ahorros </b></h5>
           </Link>
           <Link to="/SignUp" className="navbar-brand">
           <h5><b> Solicitar Crédito</b></h5>
