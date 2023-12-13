@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:200');
 body  {
-    background-image: url('https://st.depositphotos.com/1280399/2545/i/450/depositphotos_25459425-stock-photo-blue-abstract-background.jpg');
+    background-image: url('https://p4.wallpaperbetter.com/wallpaper/806/773/150/world-map-4k-download-hd-wallpaper-preview.jpg');
   background-size:cover;
         -webkit-animation: slidein 100s;
         animation: slidein 100s;
@@ -16,13 +16,13 @@ body  {
 }
 
 @-webkit-keyframes slidein {
-from {background-position: top; background-size:2500px; }
-to {background-position: -70px 0px;background-size: 2250px;}
+from {background-position: top; background-size:2000px; }
+to {background-position: -50px 0px;background-size: 1900px;}
 }
 
 @keyframes slidein {
-from {background-position: top;background-size:2500px; }
-to {background-position: -70px 0px;background-size: 2250px;}
+from {background-position: top;background-size:2000px; }
+to {background-position: -50px 0px;background-size: 1900px;}
 
 }
 
@@ -55,7 +55,7 @@ to {background-position: -70px 0px;background-size: 2250px;}
 
 
 #titulo{
-    color: whitesmoke;
+    color: black;
     
 }
 
